@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { AuthProvider } from '@/context/AuthContext';
 
 export const metadata: Metadata = {
-  title: 'CodeStreak',
+  title: '45 days of code',
   description: 'Complete daily coding challenges and build your streak.',
 };
 
